@@ -1,9 +1,14 @@
 #!/usr/bin/python3
 """
-This script interacts with the APIs
+Exercise 0:
+Interacts with the APIs
 at https://jsonplaceholder.typicode.com/
 and gets info about the users'
 to-do lists and which tasks have they completed.
+
+Go to https://jsonplaceholder.typicode.com/todos/
+and https://jsonplaceholder.typicode.com/users
+to understand how the JSON data is recieved by this program!
 """
 import requests
 
